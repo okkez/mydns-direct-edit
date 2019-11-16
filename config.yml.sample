@@ -1,0 +1,6 @@
+example.net:
+  master_id: MYDNS MASTER ID
+  master_password: PASSWORD
+example.jp:
+  master_id: MYDNS MASTER ID
+  master_password: PASSWORD
